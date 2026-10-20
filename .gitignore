@@ -1,0 +1,12 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Node (por si más adelante usas frameworks o build tools)
+node_modules/
+dist/
+.env
